@@ -1,0 +1,7 @@
+aiohttp
+protobuf
+pycryptodome
+python-cfonts
+protobuf-decoder
+urllib3
+flask
